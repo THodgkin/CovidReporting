@@ -1,0 +1,9 @@
+{
+	"name": "covid-reporting-adf-97",
+	"location": "westus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "531f72a3-72a8-4acb-a103-4e75fdeab3ae",
+		"tenantId": "237190fe-6b3e-4640-aa1e-86bfa76e1f46"
+	}
+}
